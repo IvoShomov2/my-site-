@@ -1,0 +1,100 @@
+body {
+    background-color:rgb(32, 32, 32); 
+}
+
+h1 {
+    color: white;
+    text-align: center;
+  }
+  header {
+    background: rgb(77, 77, 77);
+    color: white;
+    padding: 20px;
+    text-align: center;
+    p{
+  
+        font-size:1.5em; 
+        color: white;
+}
+  
+
+    
+  }
+  .about {
+   
+    margin: 20px auto;
+    padding: 20px;
+    background: rgb(22, 22, 22);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    color: black;
+    h2{
+        text-align: center;
+       font-size: 2em;
+       color: limegreen;
+    }
+    p{
+        color: white;
+    }
+}
+p {
+    font-size: 1.5em;
+    line-height: 1.6;
+}
+A{
+    font-size: 1.5em;
+   text-decoration: none;
+    color:white;  /* Цвят на текста */
+    margin: 20px auto;
+    padding: 20px;
+  
+ 
+
+}
+a:hover {
+    text-decoration: underline; /* Добавя подчертаване при задържане */
+    color: white; /* Потъмнява при задържане */
+}
+p{
+    color: limegreen;
+    font-size: 1.5em;
+    line-height: 1.6;
+    text-align: center;
+}
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: #4CAF50; /* Green */
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    margin: 5px;
+    transition: background-color 0.3s ease;
+}
+.butoni{
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: #4CAF50; /* Green */
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    margin: 5px;
+    transition: background-color 0.3s ease;
+}
+.p1{
+  
+    font-size:1.5em; 
+    color: white;
+
+}
+.kickhub{
+    margin: 20px auto;
+    padding: 20px;
+    background: rgb(22, 22, 22);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    color: black;
+text-align: center  ;
+}
